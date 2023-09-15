@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ButterChicken';
+    src: url('./fonts/ButterChicken.woff') format('woff'), 
+         url('./fonts/ButterChicken.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
